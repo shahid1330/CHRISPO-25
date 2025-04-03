@@ -8,3 +8,7 @@ Pillow==10.1.0
 plotly==5.18.0
 nltk==3.8.1
 requests==2.31.0
+
+datetime==5.4
+base64==1.0.0
+io==0.1.0
